@@ -1,0 +1,317 @@
+index;cdu;spd;fdp;linke;gruene;piraten;afd;sonst;institut;kommentar;date
+1;34,00%;32,00%;5,00%;5,00%;13,00%;7,00%;?;4,00%;Forschungsgruppe Wahlen;Politbarometer Juni;15.06.2012
+2;33,40%;29,30%;5,10%;5,80%;13,30%;9,20%;?;3,90%;Wahlumfrage.de;;15.06.2012
+3;34,00%;28,00%;5,50%;5,00%;15,50%;7,50%;?;4,50%;Allensbach;Frankfurt Allgemeine Zeitung;20.06.2012
+4;33,00%;27,00%;5,00%;7,00%;13,00%;10,00%;?;5,00%;Forsa;Handelsblatt;20.06.2012
+5;34,00%;28,00%;5,00%;6,00%;13,00%;10,00%;?;4,00%;GMS Dr. Jung GmbH;Rhein-Zeitung;22.06.2012
+6;34,00%;31,00%;4,00%;6,00%;14,00%;8,00%;?;3,00%;Infratest dimap;ARD / ThÅringer Allgemeine;22.06.2012
+7;33,50%;29,30%;5,10%;5,70%;13,60%;8,80%;?;4,10%;Wahlumfrage.de;;22.06.2012
+8;34,00%;30,00%;5,00%;6,00%;13,00%;9,00%;?;3,00%;Emnid;Bild am Sonntag;24.06.2012
+9;34,00%;27,00%;4,00%;7,00%;13,00%;10,00%;?;5,00%;Forsa;Stern-RTL-Wahltrend;27.06.2012
+10;34,00%;29,30%;4,90%;5,70%;13,60%;8,60%;?;3,90%;Wahlumfrage.de;;30.06.2012
+11;34,00%;31,00%;5,00%;6,00%;13,00%;8,00%;?;3,00%;Emnid;Bild am Sonntag;01.07.2012
+12;36,00%;27,00%;3,00%;7,00%;12,00%;9,00%;?;6,00%;Forsa;Stern / RTL Wahltrend;04.07.2012
+13;35,00%;30,00%;4,00%;7,00%;14,00%;7,00%;?;3,00%;Infratest dimap;Die Welt / ARD;06.07.2012
+14;34,00%;29,00%;5,00%;6,00%;14,00%;9,00%;?;3,00%;Emnid;Bild am Sonntag;08.07.2012
+15;34,50%;29,00%;4,80%;5,80%;13,60%;8,30%;?;4,10%;Wahlumfrage.de;;08.07.2012
+16;35,00%;28,00%;4,00%;6,00%;14,00%;8,00%;?;5,00%;INSA;(Freie WÑhler 2%) BILD-Wahlcheck;10.07.2012
+17;36,00%;26,00%;4,00%;7,00%;13,00%;9,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;11.07.2012
+18;36,00%;30,00%;4,00%;6,00%;13,00%;7,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;13.07.2012
+19;34,00%;29,00%;5,00%;7,00%;13,00%;9,00%;?;3,00%;Emnid;Bild am Sonntag;15.07.2012
+20;34,80%;28,50%;4,80%;6,20%;13,60%;8,30%;?;3,90%;Wahlumfrage.de;;15.07.2012
+21;36,00%;26,00%;4,00%;6,00%;13,00%;10,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;18.07.2012
+22;36,00%;27,00%;6,00%;6,50%;14,00%;6,00%;?;4,50%;Allensbach;Frankfurt Allgemeine Zeitung;18.07.2012
+23;35,00%;30,00%;4,00%;6,00%;14,00%;8,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend / Tagesschau.de;20.07.2012
+24;35,20%;28,30%;4,80%;6,00%;13,30%;8,40%;?;3,90%;Wahlumfrage.de;;21.07.2012
+25;35,00%;29,00%;5,00%;6,00%;13,00%;8,00%;?;4,00%;Emnid;Bild am Sonntag;22.07.2012
+26;36,00%;27,00%;4,00%;7,00%;12,00%;9,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;25.07.2012
+27;35,50%;28,70%;4,50%;6,20%;13,20%;7,80%;?;4,30%;Wahlumfrage.de;;28.07.2012
+28;36,00%;29,00%;4,00%;7,00%;12,00%;8,00%;?;4,00%;Emnid;Bild am Sonntag;29.07.2012
+29;36,00%;27,00%;5,00%;6,00%;12,00%;9,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;01.08.2012
+30;36,00%;28,00%;5,00%;6,00%;13,00%;8,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend / Tagesschau.de;01.08.2012
+31;36,00%;29,00%;5,00%;7,00%;13,00%;7,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;05.08.2012
+32;35,80%;28,30%;4,80%;6,20%;13,00%;7,60%;?;4,30%;Wahlumfrage.de;;05.08.2012
+33;36,00%;26,00%;5,00%;6,00%;13,00%;9,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;08.08.2012
+34;36,00%;28,00%;4,00%;7,00%;14,00%;8,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;12.08.2012
+35;35,80%;28,00%;4,70%;6,20%;13,30%;7,80%;?;4,30%;Wahlumfrage.de;;12.08.2012
+36;36,00%;26,00%;4,00%;7,00%;13,00%;9,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;15.08.2012
+37;36,00%;29,00%;5,00%;6,00%;13,00%;7,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend / Tagesschau.de;17.08.2012
+38;35,00%;29,00%;5,00%;7,00%;13,00%;8,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;19.08.2012
+39;35,70%;28,30%;4,70%;6,30%;13,20%;7,60%;?;4,30%;Wahlumfrage.de;;19.08.2012
+40;36,00%;27,00%;5,00%;8,00%;13,00%;7,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;22.08.2012
+41;35,00%;28,00%;5,50%;6,00%;15,00%;6,50%;?;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;22.08.2012
+42;36,00%;28,00%;5,00%;6,00%;13,00%;7,00%;?;5,00%;GMS Dr. Jung GmbH;"Freien WÑhler 2%; Quelle: http://www.gms-gmbh.com";23.08.2012
+43;37,00%;29,00%;5,00%;6,00%;12,00%;6,00%;?;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;24.08.2012
+44;36,00%;28,00%;4,00%;7,00%;14,00%;7,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;26.08.2012
+45;36,00%;28,20%;4,90%;6,50%;13,40%;6,80%;?;4,30%;Wahlumfrage.de;Wahlumfrage.de - Bundeswahltrend;26.08.2012
+46;39,00%;26,00%;5,00%;7,00%;12,00%;7,00%;?;4,00%;Forsa;stern-RTL-Wahltrend /Spiegel;29.08.2012
+47;36,00%;28,00%;5,00%;7,00%;13,00%;7,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;02.09.2012
+48;36,50%;28,00%;5,10%;6,30%;13,10%;6,80%;?;4,30%;Wahlumfrage.de;Bundeswahltrend;02.09.2012
+49;39,00%;26,00%;4,00%;7,00%;13,00%;7,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;05.09.2012
+50;37,00%;30,00%;4,00%;6,00%;13,00%;6,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend (SR Online);06.09.2012
+51;36,00%;28,00%;4,00%;7,00%;14,00%;7,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;09.09.2012
+52;36,70%;28,20%;4,60%;6,30%;13,40%;6,60%;?;4,30%;Wahlumfrage.de;Bundeswahltrend;09.09.2012
+53;39,00%;26,00%;4,00%;8,00%;13,00%;6,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;12.09.2012
+54;36,00%;30,00%;4,00%;6,00%;13,00%;6,00%;?;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;14.09.2012
+55;38,00%;26,00%;4,00%;7,00%;14,00%;7,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;16.09.2012
+56;36,80%;28,00%;4,40%;6,50%;13,60%;6,40%;?;4,30%;Wahlumfrage.de;Bundeswahltrend;16.09.2012
+57;38,00%;26,00%;5,00%;8,00%;12,00%;6,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;19.09.2012
+58;37,00%;27,00%;5,00%;8,00%;13,00%;6,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;23.09.2012
+59;36,80%;27,80%;4,80%;6,70%;13,30%;6,10%;?;4,70%;Wahlumfrage.de;Bundeswahltrend;23.09.2012
+60;38,00%;26,00%;4,00%;8,00%;12,00%;7,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;26.09.2012
+61;34,00%;30,00%;5,50%;6,50%;14,00%;5,50%;?;4,50%;Allensbach;Frankfurt Allgemeine Zeitung;26.09.2012
+62;37,00%;30,00%;4,00%;7,00%;12,00%;6,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend / tagesschau;28.09.2012
+63;38,00%;29,00%;4,00%;6,00%;13,00%;6,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;28.09.2012
+64;37,00%;27,00%;5,00%;8,00%;13,00%;6,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;30.09.2012
+65;37,00%;28,00%;4,60%;6,90%;12,80%;6,10%;?;4,60%;Wahlumfrage.de;Bundeswahltrend;30.09.2012
+66;35,00%;29,00%;4,00%;8,00%;12,00%;7,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;02.10.2012
+67;39,00%;31,00%;4,00%;7,00%;11,00%;4,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;04.10.2012
+68;37,00%;28,00%;5,00%;8,00%;12,00%;6,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;07.10.2012
+69;36,80%;28,80%;4,60%;6,90%;12,50%;5,80%;?;4,60%;Wahlumfrage.de;Bundeswahltrend;07.10.2012
+70;36,00%;30,00%;4,00%;7,00%;12,00%;6,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;10.10.2012
+71;38,00%;31,00%;4,00%;6,00%;12,00%;5,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;11.10.2012
+72;38,00%;30,00%;4,00%;8,00%;11,00%;5,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;14.10.2012
+73;37,20%;29,70%;4,40%;6,80%;12,20%;5,30%;?;4,60%;Wahlumfrage.de;Bundeswahltrend;14.10.2012
+74;37,00%;29,00%;4,00%;8,00%;11,00%;5,00%;?;6,00%;Forsa;stern-RTL-Wahltrend;17.10.2012
+75;35,50%;31,00%;4,50%;6,00%;14,00%;5,00%;?;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;17.10.2012
+76;38,00%;29,00%;4,00%;7,00%;12,00%;6,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;21.10.2012
+77;37,60%;29,50%;4,30%;6,70%;12,20%;5,20%;?;4,30%;Wahlumfrage.de;Bundeswahltrend;21.10.2012
+78;38,00%;27,00%;3,00%;9,00%;12,00%;5,00%;?;6,00%;Forsa;stern-RTL-Wahltrend;24.10.2012
+79;38,00%;27,00%;4,00%;8,00%;12,00%;5,00%;?;6,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);25.10.2012
+80;39,00%;29,00%;4,00%;6,00%;13,00%;4,00%;?;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;26.10.2012
+81;38,00%;30,00%;4,00%;7,00%;13,00%;5,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;26.10.2012
+82;38,00%;29,00%;4,00%;8,00%;12,00%;5,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;28.10.2012
+83;37,80%;28,80%;3,90%;7,30%;12,70%;4,80%;?;4,70%;Wahlumfrage.de;Bundeswahltrend;28.10.2012
+84;38,00%;26,00%;3,00%;8,00%;15,00%;5,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;30.10.2012
+85;38,00%;29,00%;4,00%;8,00%;13,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;04.11.2012
+86;37,80%;28,70%;3,90%;7,20%;13,30%;4,70%;?;4,50%;Wahlumfrage.de;Bundeswahltrend;04.11.2012
+87;37,00%;26,00%;3,00%;8,00%;15,00%;5,00%;?;6,00%;Forsa;stern-RTL-Wahltrend;07.11.2012
+88;40,00%;30,00%;4,00%;6,00%;14,00%;4,00%;?;2,00%;Infratest dimap;ARD Deutschlandtrend;08.11.2012
+89;38,00%;30,00%;4,00%;7,00%;12,00%;5,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;11.11.2012
+90;37,90%;28,80%;3,90%;6,80%;13,30%;4,70%;?;4,50%;Wahlumfrage.de;Bundeswahltrend;11.11.2012
+91;39,00%;26,00%;4,00%;8,00%;14,00%;4,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;14.11.2012
+92;39,00%;30,00%;4,00%;6,00%;13,00%;4,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;16.11.2012
+93;39,00%;28,00%;4,00%;7,00%;13,00%;5,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;18.11.2012
+94;38,40%;28,70%;4,10%;6,80%;13,30%;4,50%;?;4,20%;Wahlumfrage.de;Bundeswahltrend;18.11.2012
+95;37,50%;31,00%;4,00%;6,50%;12,50%;4,00%;?;4,50%;Allensbach;;21.11.2012
+96;36,00%;26,00%;4,00%;8,00%;16,00%;5,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;21.11.2012
+97;37,00%;26,00%;4,00%;8,00%;16,00%;4,00%;?;5,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);22.11.2012
+98;39,00%;29,00%;4,00%;6,00%;15,00%;4,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;23.11.2012
+99;38,00%;29,00%;4,00%;7,00%;15,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;25.11.2012
+100;37,80%;28,50%;4,00%;6,90%;14,60%;4,20%;?;4,10%;Wahlumfrage.de;Bundeswahltrend;25.11.2012
+101;37,00%;26,00%;4,00%;8,00%;16,00%;4,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;28.11.2012
+102;38,00%;29,00%;4,00%;7,00%;14,00%;4,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;30.11.2012
+103;38,00%;28,00%;4,00%;8,00%;14,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;02.12.2012
+104;37,80%;28,20%;4,00%;7,30%;14,60%;4,00%;?;4,30%;Wahlumfrage.de;Bundeswahltrend;02.12.2012
+105;37,00%;26,00%;4,00%;7,00%;16,00%;4,00%;?;6,00%;Forsa;stern-RTL-Wahltrend;05.12.2012
+106;39,00%;30,00%;4,00%;7,00%;14,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;06.12.2012
+107;40,00%;28,00%;4,00%;7,00%;14,00%;3,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;09.12.2012
+108;38,10%;28,30%;4,00%;7,10%;14,40%;3,70%;?;4,40%;Wahlumfrage.de;Bundeswahltrend;09.12.2012
+109;38,00%;27,00%;4,00%;8,00%;14,00%;4,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;12.12.2012
+110;40,00%;30,00%;4,00%;7,00%;13,00%;3,00%;?;3,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;14.12.2012
+111;40,00%;28,00%;4,00%;7,00%;14,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;16.12.2012
+112;38,60%;28,70%;4,00%;7,30%;13,90%;3,70%;?;3,90%;Wahlumfrage.de;Bundeswahltrend;16.12.2012
+113;40,00%;29,00%;4,00%;7,00%;14,00%;3,00%;?;3,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);17.12.2012
+114;38,00%;27,00%;5,00%;8,00%;14,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;19.12.2012
+115;37,50%;30,00%;4,50%;6,50%;14,00%;3,50%;?;4,00%;Allensbach;;19.12.2012
+116;40,00%;30,00%;4,00%;7,00%;13,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;21.12.2012
+117;40,00%;28,00%;4,00%;8,00%;13,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;23.12.2012
+118;39,30%;29,00%;4,30%;7,30%;13,50%;3,30%;?;3,50%;Wahlumfrage.de;Bundeswahltrend;23.12.2012
+119;41,00%;27,00%;4,00%;8,00%;13,00%;3,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;26.12.2012
+120;41,00%;29,00%;4,00%;6,00%;12,00%;4,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;04.01.2013
+121;40,00%;27,00%;4,00%;8,00%;14,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;06.01.2013
+122;39,90%;28,70%;4,10%;7,10%;13,30%;3,40%;?;3,50%;Wahlumfrage.de;Bundeswahltrend;06.01.2013
+123;42,00%;25,00%;2,00%;9,00%;15,00%;3,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;09.01.2013
+124;41,00%;28,00%;4,00%;6,00%;14,00%;3,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;10.01.2013
+125;42,00%;28,00%;4,00%;6,00%;13,00%;3,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;11.01.2013
+126;41,00%;26,00%;3,00%;8,00%;14,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfeage;13.01.2013
+127;40,60%;27,70%;3,60%;7,10%;14,00%;3,30%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;13.01.2013
+128;43,00%;23,00%;3,00%;8,00%;14,00%;4,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;16.01.2013
+129;42,00%;26,00%;4,00%;7,00%;13,00%;4,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;18.01.2013
+130;43,00%;25,00%;4,00%;7,00%;13,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfeage;20.01.2013
+131;41,30%;26,80%;3,90%;6,90%;13,50%;3,60%;?;4,00%;Wahlumfrage.de;Bundeswahltrend;20.01.2013
+132;42,00%;23,00%;4,00%;8,00%;14,00%;4,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;23.01.2013
+133;39,00%;28,00%;5,00%;7,00%;14,00%;3,00%;?;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;23.01.2013
+134;42,00%;27,00%;4,00%;6,00%;14,00%;3,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;25.01.2013
+135;41,00%;29,00%;4,00%;6,00%;13,00%;3,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;25.01.2013
+136;41,00%;27,00%;4,00%;7,00%;13,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;27.01.2013
+137;40,80%;27,20%;4,20%;6,80%;13,70%;3,30%;?;4,00%;Wahlumfrage.de;Bundeswahltrend;27.01.2013
+138;42,00%;26,00%;5,00%;6,00%;15,00%;3,00%;?;3,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);29.01.2013
+139;40,00%;25,00%;4,00%;8,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;30.01.2013
+140;40,00%;27,00%;4,00%;6,00%;15,00%;4,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;01.02.2013
+141;41,00%;27,00%;4,00%;7,00%;14,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;03.02.2013
+142;40,50%;27,00%;4,30%;6,70%;14,30%;3,30%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;03.02.2013
+143;41,00%;25,00%;4,00%;7,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;06.02.2013
+144;39,00%;29,00%;4,00%;6,00%;15,00%;3,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;07.02.2013
+145;40,00%;27,00%;4,00%;7,00%;15,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;10.02.2013
+146;40,30%;27,30%;4,30%;6,50%;14,50%;3,20%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;10.02.2013
+147;43,00%;25,00%;3,00%;7,00%;14,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;13.02.2013
+148;40,00%;27,00%;4,00%;7,00%;16,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;15.02.2013
+149;41,00%;27,00%;4,00%;6,00%;15,00%;3,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;17.02.2013
+150;41,00%;27,00%;4,20%;6,50%;14,50%;3,00%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;17.02.2013
+151;40,00%;27,00%;5,00%;6,00%;15,00%;3,00%;?;4,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);19.02.2013
+152;43,00%;24,00%;3,00%;7,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;20.02.2013
+153;39,00%;27,00%;6,00%;6,50%;15,00%;3,00%;?;3,50%;Allensbach;Frankfurt Allgemeine Zeitung;20.02.2013
+154;40,00%;28,00%;5,00%;6,00%;15,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;21.02.2013
+155;40,00%;30,00%;4,00%;6,00%;14,00%;2,00%;?;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;22.02.2013
+156;41,00%;27,00%;4,00%;7,00%;14,00%;4,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;24.02.2013
+157;40,50%;27,20%;4,50%;6,40%;14,70%;3,00%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;24.02.2013
+158;40,00%;25,00%;4,00%;8,00%;16,00%;2,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;27.02.2013
+159;41,00%;27,00%;4,00%;6,00%;15,00%;3,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;28.02.2013
+160;40,00%;27,00%;5,00%;7,00%;15,00%;3,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;03.03.2013
+161;40,00%;27,20%;4,70%;6,60%;15,00%;2,80%;?;3,90%;Wahlumfrage.de;Bundeswahltrend;03.03.2013
+162;40,00%;25,00%;4,00%;8,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;06.03.2013
+163;40,00%;26,00%;4,00%;7,00%;17,00%;2,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;07.03.2013
+164;41,00%;28,00%;4,00%;7,00%;14,00%;?;?;6,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;08.03.2013
+165;40,00%;27,00%;4,00%;8,00%;15,00%;3,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;10.03.2013
+166;39,80%;27,00%;4,50%;6,90%;15,20%;2,70%;?;3,90%;Wahlumfrage.de;Bundeswahltrend;10.03.2013
+167;40,00%;24,00%;4,00%;8,00%;16,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;13.03.2013
+168;40,00%;25,00%;5,00%;7,00%;17,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;14.03.2013
+169;39,00%;28,00%;4,00%;8,00%;16,00%;3,00%;?;2,00%;Emnid;Bild am Sonntag - Sonntagsfrage;17.03.2013
+170;39,70%;26,80%;4,70%;6,90%;15,50%;2,80%;?;3,60%;Wahlumfrage.de;Bundeswahltrend;17.03.2013
+171;40,00%;26,00%;5,00%;7,00%;16,00%;3,00%;?;3,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);19.03.2013
+172;40,00%;24,00%;6,00%;7,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;20.03.2013
+173;39,50%;26,50%;6,00%;6,00%;15,50%;2,50%;?;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;20.03.2013
+174;40,00%;29,00%;4,00%;7,00%;14,00%;3,00%;?;3,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;22.03.2013
+175;38,00%;27,00%;5,00%;8,00%;16,00%;2,00%;?;4,00%;Infratest dimap;ARD Deutschlandtrend;22.03.2013
+176;40,00%;27,00%;5,00%;7,00%;15,00%;3,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;24.03.2013
+177;39,60%;26,60%;5,20%;7,00%;15,30%;2,80%;?;3,70%;Wahlumfrage.de;Bundeswahltrend;24.03.2013
+178;41,00%;24,00%;5,00%;8,00%;14,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;26.03.2013
+179;39,00%;28,00%;4,00%;8,00%;15,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;28.03.2013
+180;39,00%;26,00%;5,00%;7,00%;15,00%;3,00%;?;5,00%;Emnid;Bild am Sonntag - Sonntagsfrage;31.03.2013
+181;39,80%;26,60%;4,80%;7,20%;14,90%;2,90%;?;3,80%;Wahlumfrage.de;Bundeswahltrend;01.04.2013
+182;40,00%;24,00%;5,00%;8,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;03.04.2013
+183;41,00%;27,00%;4,00%;8,00%;14,00%;3,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;04.04.2013
+184;39,00%;26,00%;5,00%;8,00%;15,00%;3,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;07.04.2013
+185;39,90%;26,40%;4,80%;7,30%;14,90%;2,90%;?;3,70%;Wahlumfrage.de;Bundeswahltrend;08.04.2013
+186;41,00%;23,00%;6,00%;9,00%;14,00%;3,00%;?;4,00%;Forsa;stern-RTL-Wahltrend;10.04.2013
+187;42,00%;27,00%;4,00%;6,00%;14,00%;?;?;7,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;12.04.2013
+188;42,00%;27,00%;4,00%;7,00%;15,00%;2,00%;?;3,00%;Infratest dimap;ARD Deutschlandtrend;12.04.2013
+189;41,00%;26,00%;5,00%;8,00%;14,00%;3,00%;?;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;14.04.2013
+190;40,90%;25,90%;5,00%;7,20%;14,80%;2,70%;?;4,00%;Wahlumfrage.de;Bundeswahltrend;15.04.2013
+191;42,00%;24,00%;6,00%;8,00%;13,00%;2,00%;?;5,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);16.04.2013
+192;38,50%;28,00%;5,00%;7,00%;15,00%;3,00%;?;3,50%;Allensbach;Frankfurt Allgemeine Zeitung;17.04.2013
+193;42,00%;22,00%;5,00%;8,00%;15,00%;3,00%;?;5,00%;Forsa;stern-RTL-Wahltrend;17.04.2013
+194;39,00%;26,00%;5,00%;8,00%;14,00%;4,00%;?;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;21.04.2013
+195;41,00%;27,00%;4,00%;7,00%;14,00%;?;3,00%;4,00%;Infratest dimap;ARD DeutschlandTrend;21.04.2013
+196;42,00%;23,00%;5,00%;7,00%;14,00%;3,00%;2,00%;4,00%;Forsa;;24.04.2013
+197;40,00%;27,00%;4,00%;7,00%;14,00%;?;3,00%;5,00%;Infratest dimap;ARD;26.04.2013
+198;40,00%;28,00%;4,00%;6,00%;14,00%;?;3,00%;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;26.04.2013
+199;40,00%;27,00%;4,00%;7,00%;14,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;28.04.2013
+200;40,40%;26,20%;4,70%;7,00%;14,00%;2,60%;2,50%;2,60%;Wahlumfrage.de;Bundeswahltrend;28.04.2013
+201;39,00%;23,00%;5,00%;8,00%;14,00%;3,00%;3,00%;5,00%;Forsa;stern-RTL-Wahltrend;01.05.2013
+202;40,00%;26,00%;4,00%;7,00%;15,00%;?;3,00%;5,00%;Infratest dimap;ARD DeutschlandTrend;02.05.2013
+203;38,50%;26,00%;5,50%;6,00%;15,00%;3,00%;3,50%;2,50%;Allensbach;Frankfurt Allgemeine Zeitung;03.05.2013
+204;37,00%;27,00%;5,00%;7,00%;15,00%;4,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;05.05.2013
+205;39,40%;26,00%;4,80%;7,20%;14,30%;3,00%;2,80%;2,50%;Wahlumfrage.de;Bundeswahltrend;05.05.2013
+206;39,00%;24,00%;4,00%;8,00%;15,00%;2,00%;3,00%;5,00%;Forsa;stern-RTL-Wahltrend;08.05.2013
+207;40,00%;27,00%;5,00%;6,00%;14,00%;?;3,00%;5,00%;Infratest dimap;ARD DeutschlandTrend;10.05.2013
+208;38,00%;26,00%;4,00%;8,00%;15,00%;4,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;12.05.2013
+209;39,60%;26,20%;4,70%;7,20%;14,30%;2,80%;2,80%;2,40%;Wahlumfrage.de;Bundeswahltrend;13.05.2013
+210;40,00%;23,00%;4,00%;9,00%;14,00%;3,00%;2,00%;5,00%;Forsa;stern-RTL-Wahltrend;15.05.2013
+211;40,00%;25,00%;4,00%;7,00%;14,00%;3,00%;3,00%;4,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);16.05.2013
+212;41,00%;29,00%;4,00%;6,00%;13,00%;?;3,00%;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;17.05.2013
+213;41,00%;26,00%;4,00%;6,00%;14,00%;3,00%;3,00%;3,00%;Infratest dimap;ARD DeutschlandTrend;17.05.2013
+214;39,00%;26,00%;4,00%;7,00%;15,00%;4,00%;3,00%;2,00%;Emnid;Bild am Sonntag - Sonntagsfrage;19.05.2013
+215;39,90%;25,80%;4,30%;6,80%;14,20%;3,20%;2,90%;2,90%;Wahlumfrage.de;Bundeswahltrend;20.05.2013
+216;41,00%;24,00%;4,00%;8,00%;13,00%;3,00%;3,00%;4,00%;Forsa;stern-RTL-Wahltrend;22.05.2013
+217;39,00%;27,00%;6,00%;6,00%;13,00%;2,50%;3,50%;3,00%;Allensbach;Frankfurt Allgemeine Zeitung;22.05.2013
+218;41,00%;27,00%;4,00%;6,00%;14,00%;2,00%;2,00%;4,00%;Infratest dimap;ARD DeutschlandTrend;24.05.2013
+219;40,00%;27,00%;4,00%;7,00%;13,00%;4,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;26.05.2013
+220;40,30%;26,50%;4,30%;6,70%;13,30%;2,90%;2,80%;3,20%;Wahlumfrage.de;Bundeswahltrend;26.05.2013
+221;40,00%;24,00%;4,00%;8,00%;14,00%;3,00%;3,00%;4,00%;Forsa;stern/RTL-Wahltrend;28.05.2013
+222;42,00%;26,00%;4,00%;6,00%;14,00%;?;3,00%;5,00%;Infratest dimap;ARD DeutschlandTrend;31.05.2013
+223;40,00%;26,00%;5,00%;7,00%;14,00%;4,00%;2,00%;2,00%;Emnid;Bild am Sonntag - Sonntagsfrage;02.06.2013
+224;40,30%;26,20%;4,50%;6,70%;13,70%;3,10%;2,90%;2,60%;Wahlumfrage.de;Bundeswahltrend;02.06.2013
+225;41,00%;24,00%;4,00%;8,00%;13,00%;3,00%;3,00%;4,00%;Forsa;stern/RTL-Wahltrend;05.06.2013
+226;41,00%;27,00%;4,00%;6,00%;14,00%;?;3,00%;5,00%;Infratest dimap;ARD DeutschlandTrend;06.06.2013
+227;42,00%;28,00%;4,00%;6,00%;13,00%;?;3,00%;4,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;07.06.2013
+228;41,00%;26,00%;4,00%;7,00%;13,00%;3,00%;3,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;09.06.2013
+229;40,70%;26,20%;4,30%;6,70%;13,30%;2,90%;3,10%;2,80%;Wahlumfrage.de;Bundeswahltrend;09.06.2013
+230;40,00%;24,00%;5,00%;9,00%;13,00%;2,00%;2,00%;5,00%;Forsa;Stern/RTL-Wahltrend;12.06.2013
+231;41,00%;26,00%;4,00%;7,00%;15,00%;?;2,00%;5,00%;Infratest dimap;ARD DeutschlandTrend;14.06.2013
+232;41,00%;25,00%;5,00%;8,00%;13,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;16.06.2013
+233;40,50%;25,80%;4,70%;7,20%;13,50%;2,60%;2,60%;3,10%;Wahlumfrage.de;Bundeswahltrend;17.06.2013
+234;41,00%;25,00%;5,00%;8,00%;14,00%;2,00%;2,00%;3,00%;GMS Dr. Jung GmbH;Freien WÑhler 2% (in Sonstige);18.06.2013
+235;40,00%;22,00%;6,00%;8,00%;15,00%;2,00%;2,00%;5,00%;Forsa;stern/RTL-Wahltrend;19.06.2013
+236;38,00%;26,00%;6,00%;7,00%;14,00%;2,00%;3,00%;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;19.06.2013
+237;41,00%;25,00%;5,00%;7,00%;14,00%;?;?;8,00%;Infratest dimap;ARD DeutschlandTrend;21.06.2013
+238;41,00%;25,00%;4,00%;8,00%;14,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;23.06.2013
+239;40,50%;25,20%;5,00%;7,30%;14,00%;2,30%;2,40%;3,30%;Wahlumfrage.de;Bundeswahltrend;23.06.2013
+240;41,00%;22,00%;5,00%;8,00%;15,00%;2,00%;2,00%;5,00%;Forsa;stern/RTL-Wahltrend;26.06.2013
+241;43,00%;26,00%;4,00%;6,00%;13,00%;?;3,00%;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;28.06.2013
+242;41,00%;26,00%;4,00%;7,00%;13,00%;3,00%;?;6,00%;Infratest dimap;ARD DeutschlandTrend;28.06.2013
+243;41,00%;25,00%;5,00%;7,00%;13,00%;3,00%;2,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;30.06.2013
+244;40,80%;25,00%;4,80%;7,20%;13,70%;2,40%;2,40%;3,70%;Wahlumfrage.de;Bundeswahltrend;30.06.2013
+245;41,00%;22,00%;5,00%;9,00%;14,00%;2,00%;2,00%;5,00%;Forsa;stern/RTL-Wahltrend - NichtwÑhler 31%;03.07.2013
+246;42,00%;25,00%;4,00%;7,00%;14,00%;?;?;8,00%;Infratest dimap;ARD DeutschlandTrend;04.07.2013
+247;42,00%;26,00%;4,00%;8,00%;12,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;07.07.2013
+248;41,20%;25,00%;4,70%;7,50%;13,50%;2,40%;2,40%;3,30%;Wahlumfrage.de;Bundeswahltrend;08.07.2013
+249;41,00%;22,00%;5,00%;9,00%;15,00%;2,00%;?;6,00%;Forsa;stern/RTL-Wahltrend;10.07.2013
+250;40,00%;25,50%;6,50%;6,00%;12,50%;2,00%;3,50%;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;12.07.2013
+251;41,00%;26,00%;5,00%;7,00%;13,00%;?;3,00%;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;12.07.2013
+252;41,00%;26,00%;4,00%;6,00%;14,00%;?;3,00%;6,00%;Infratest dimap;ARD DeutschlandTrend;12.07.2013
+253;41,00%;26,00%;5,00%;7,00%;12,00%;4,00%;1,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;14.07.2013
+254;40,80%;25,10%;5,10%;7,20%;13,40%;2,50%;2,50%;3,40%;Wahlumfrage.de;Bundeswahltrend;14.07.2013
+255;41,00%;25,00%;5,00%;7,00%;13,00%;2,00%;2,00%;5,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);16.07.2013
+256;41,00%;23,00%;5,00%;8,00%;14,00%;2,00%;?;7,00%;Forsa;stern/RTL-Wahltrend;17.07.2013
+257;41,00%;26,00%;4,00%;7,00%;13,00%;?;3,00%;6,00%;Infratest dimap;ARD DeutschlandTrend;19.07.2013
+258;40,00%;25,00%;6,00%;8,00%;13,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;21.07.2013
+259;40,70%;25,10%;5,30%;7,20%;13,10%;2,30%;2,70%;3,60%;Wahlumfrage.de;Bundeswahltrend;22.07.2013
+260;41,00%;22,00%;5,00%;9,00%;12,00%;4,00%;2,00%;5,00%;Forsa;stern/RTL-Wahltrend;24.07.2013
+261;42,00%;25,00%;4,00%;7,00%;14,00%;2,00%;2,00%;4,00%;Infratest dimap;ARD DeutschlandTrend;25.07.2013
+262;40,00%;25,00%;5,00%;8,00%;13,00%;3,00%;3,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;28.07.2013
+263;41,00%;22,00%;5,00%;8,00%;13,00%;3,00%;2,00%;6,00%;Forsa;stern/RTL-Wahltrend;31.07.2013
+264;42,00%;26,00%;5,00%;7,00%;13,00%;?;?;7,00%;Infratest dimap;ARD DeutschlandTrend;01.08.2013
+265;40,00%;27,00%;5,00%;7,00%;14,00%;?;?;7,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;02.08.2013
+266;40,00%;25,00%;5,00%;8,00%;13,00%;3,00%;2,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;04.08.2013
+267;40,70%;25,10%;5,30%;7,20%;13,10%;2,50%;2,50%;3,60%;Wahlumfrage.de;Bundeswahltrend;04.08.2013
+268;39,00%;26,00%;5,00%;8,00%;14,00%;2,00%;2,00%;4,00%;INSA;BILD;05.08.2013
+269;40,00%;23,00%;5,00%;7,00%;14,00%;3,00%;3,00%;5,00%;Forsa;stern/RTL-Wahltrend;07.08.2013
+270;42,00%;25,00%;5,00%;7,00%;13,00%;3,00%;?;5,00%;Infratest dimap;ARD DeutschlandTrend;09.08.2013
+271;41,00%;25,00%;5,00%;8,00%;13,00%;3,00%;2,00%;3,00%;Emnid;Bild am Sonntag - Sonntagsfrage;11.08.2013
+272;40,70%;25,10%;5,30%;7,00%;13,30%;2,60%;2,60%;3,40%;Wahlumfrage.de;Bundeswahltrend;11.08.2013
+273;39,00%;26,00%;5,00%;8,00%;14,00%;2,00%;3,00%;3,00%;INSA;1% Freie WÑhler in Sonstige - Bild-Zeitung;13.08.2013
+274;40,00%;23,00%;5,00%;8,00%;13,00%;3,00%;3,00%;5,00%;Forsa;stern/RTL-Wahltrend;14.08.2013
+275;42,00%;25,00%;5,00%;8,00%;12,00%;3,00%;?;5,00%;Infratest dimap;ARD DeutschlandTrend;15.08.2013
+276;41,00%;25,00%;5,00%;8,00%;13,00%;3,00%;?;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;16.08.2013
+277;40,00%;24,00%;6,00%;8,00%;12,00%;4,00%;1,00%;5,00%;Emnid;Bild am Sonntag - Sonntagsfrage;18.08.2013
+278;40,70%;24,60%;5,40%;7,50%;12,60%;2,80%;2,40%;4,00%;Wahlumfrage.de;Bundeswahltrend;18.08.2013
+279;41,00%;25,00%;6,00%;8,00%;12,00%;3,00%;1,00%;4,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);20.08.2013
+280;38,00%;26,00%;5,00%;8,00%;15,00%;3,00%;3,00%;2,00%;INSA;1% Freie WÑhler in Sonstige - Bild-Zeitung;20.08.2013
+281;41,00%;22,00%;6,00%;8,00%;13,00%;3,00%;2,00%;5,00%;Forsa;stern/RTL-Wahltrend;21.08.2013
+282;39,00%;24,50%;7,00%;7,00%;13,50%;2,00%;3,00%;4,00%;Allensbach;Frankfurt Allgemeine Zeitung;21.08.2013
+283;41,00%;25,00%;6,00%;8,00%;13,00%;?;?;7,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;23.08.2013
+284;42,00%;24,00%;5,00%;9,00%;12,00%;2,00%;3,00%;3,00%;Infratest dimap;ARD DeutschlandTrend;23.08.2013
+285;40,00%;25,00%;5,00%;8,00%;12,00%;3,00%;3,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;25.08.2013
+286;40,70%;24,30%;5,80%;8,00%;12,60%;2,60%;2,40%;3,60%;Wahlumfrage.de;Bundeswahltrend;25.08.2013
+287;39,00%;25,00%;6,00%;7,00%;14,00%;3,00%;3,00%;3,00%;INSA;2% Freie WÑhler in Sonstige - Bild-Zeitung;26.08.2013
+288;41,00%;22,00%;5,00%;10,00%;11,00%;3,00%;3,00%;5,00%;Forsa;stern/RTL-Wahltrend;28.08.2013
+289;41,00%;26,00%;6,00%;7,00%;12,00%;?;3,00%;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;29.08.2013
+290;41,00%;26,00%;5,00%;8,00%;11,00%;?;3,00%;6,00%;Infratest dimap;ARD DeutschlandTrend;30.08.2013
+291;39,00%;23,00%;6,00%;10,00%;11,00%;3,00%;3,00%;5,00%;Emnid;Bild am Sonntag - Sonntagsfrage;01.09.2013
+292;40,30%;24,40%;5,80%;8,30%;11,80%;2,80%;2,70%;3,90%;Wahlumfrage.de;Bundeswahltrend;01.09.2013
+293;39,00%;26,00%;5,00%;8,00%;13,00%;3,00%;3,00%;3,00%;INSA;1% Freie WÑhler in Sonstige - Bild-Zeitung;02.09.2013
+294;40,00%;23,00%;5,00%;9,00%;11,00%;3,00%;4,00%;5,00%;Forsa;stern/RTL-Wahltrend;04.09.2013
+295;40,00%;25,00%;6,00%;7,50%;12,50%;2,50%;3,00%;3,50%;Allensbach;Frankfurt Allgemeine Zeitung;05.09.2013
+296;41,00%;26,00%;6,00%;8,00%;10,00%;?;3,00%;6,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;05.09.2013
+297;41,00%;27,00%;5,00%;8,00%;10,00%;?;3,00%;6,00%;Infratest dimap;ARD DeutschlandTrend;06.09.2013
+298;40,00%;25,00%;5,00%;9,00%;11,00%;3,00%;3,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;08.09.2013
+299;40,50%;25,20%;5,50%;8,30%;11,10%;2,90%;2,80%;3,70%;Wahlumfrage.de;Bundeswahltrend;08.09.2013
+300;39,00%;28,00%;4,00%;8,00%;11,00%;3,00%;3,00%;4,00%;INSA;1% Freie WÑhler in Sonstige - Bild-Zeitung;09.09.2013
+301;40,00%;25,00%;5,00%;9,00%;11,00%;3,00%;3,00%;4,00%;GMS Dr. Jung GmbH;Freien WÑhler 1% (in Sonstige);10.09.2013
+302;39,00%;25,00%;6,00%;10,00%;9,00%;3,00%;3,00%;5,00%;Forsa;stern/RTL-Wahltrend;11.09.2013
+303;40,00%;28,00%;5,00%;8,00%;10,00%;2,50%;2,50%;4,00%;Infratest dimap;ARD DeutschlandTrend;13.09.2013
+304;40,00%;26,00%;6,00%;8,00%;11,00%;?;4,00%;5,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;13.09.2013
+305;39,00%;26,00%;5,00%;9,00%;10,00%;3,00%;4,00%;4,00%;Emnid;Bild am Sonntag - Sonntagsfrage;15.09.2013
+306;39,70%;25,80%;5,50%;8,60%;10,60%;2,80%;3,30%;3,70%;Wahlumfrage.de;Bundeswahltrend;15.09.2013
+307;39,00%;25,00%;5,00%;10,00%;9,00%;3,00%;3,00%;6,00%;Forsa;stern/RTL-Wahltrend;18.09.2013
+308;39,00%;26,00%;6,00%;9,00%;11,00%;2,00%;3,50%;3,50%;Allensbach;Frankfurt Allgemeine Zeitung;18.09.2013
+309;38,00%;28,00%;6,00%;9,00%;8,00%;2,00%;5,00%;4,00%;INSA;1% Freie WÑhler in Sonstige - Bild-Zeitung;19.09.2013
+310;40,00%;27,00%;5,50%;8,50%;9,00%;?;4,00%;6,00%;Forschungsgruppe Wahlen;ZDF-Politbarometer;19.09.2013
+311;40,00%;26,00%;5,00%;9,00%;10,00%;2,00%;4,00%;4,00%;Forsa;Im Auftrag von RTL Aktuell;20.09.2013
+312;39,50%;27,00%;5,50%;9,00%;9,00%;2,00%;4,50%;3,50%;Allensbach;Frankfurt Allgemeine Zeitung;20.09.2013
+;;;;;;;;;;;
+;;;;;;;;;;;
+;CDU_CSU;SPD;FDP;Linke;GrÅne;Piraten;AfD;Sonstige;;;
+;39,05%;26,76%;4,57%;7,19%;13,46%;4,26%;2,72%;4,16%;;102,17%;
