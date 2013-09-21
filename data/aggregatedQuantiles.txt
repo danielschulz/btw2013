@@ -1,0 +1,52 @@
+> ## aggregated quantiles by latest polls
+> quantile(sample(data$cdu,    1000, replace=TRUE), na.rm=TRUE)
+  0%  25%  50%  75% 100% 
+0.38 0.39 0.40 0.40 0.40 
+> quantile(sample(data$spd,    1000, replace=TRUE), na.rm=TRUE)
+  0%  25%  50%  75% 100% 
+0.25 0.26 0.27 0.28 0.28 
+> quantile(sample(data$gruene, 1000, replace=TRUE), na.rm=TRUE)
+  0%  25%  50%  75% 100% 
+0.08 0.09 0.09 0.10 0.11 
+> quantile(sample(data$fdp,    1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.050 0.050 0.055 0.060 0.060 
+> quantile(sample(data$linke,  1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.080 0.085 0.090 0.090 0.090 
+> quantile(sample(data$piraten,1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.020 0.020 0.020 0.025 0.030 
+> quantile(sample(data$afd,    1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.025 0.030 0.040 0.045 0.050 
+> quantile(sample(data$sonst,  1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.035 0.040 0.040 0.060 0.070
+
+
+> ## aggregated quantiles by full history
+> quantile(sample(cdu$mean,     1000, replace=TRUE), na.rm=TRUE)
+  0%  25%  50%  75% 100% 
+0.33 0.38 0.40 0.41 0.43 
+> quantile(sample(spd$mean,     1000, replace=TRUE), na.rm=TRUE)
+     0%     25%     50%     75%    100% 
+0.22000 0.25425 0.27000 0.28000 0.32000 
+> quantile(sample(gruene$mean,  1000, replace=TRUE), na.rm=TRUE)
+    0%    25%    50%    75%   100% 
+0.0800 0.1300 0.1355 0.1400 0.1700 
+> quantile(sample(fdp$mean,     1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.020 0.040 0.045 0.050 0.070 
+> quantile(sample(linke$mean,   1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.050 0.065 0.070 0.080 0.100 
+> quantile(sample(piraten$mean, 1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.020 0.030 0.035 0.060 0.100 
+> quantile(sample(afd$mean,     1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.010 0.024 0.030 0.030 0.050 
+> quantile(sample(sonst$mean,   1000, replace=TRUE), na.rm=TRUE)
+   0%   25%   50%   75%  100% 
+0.020 0.037 0.040 0.050 0.080 
