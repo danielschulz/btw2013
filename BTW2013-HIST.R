@@ -5,7 +5,7 @@ set.seed(4711)
 PERSISTENT_CONSTANTS = c("PERSISTENT_CONSTANTS", "WAHLTAG", "DATE_FORMAT",
                          "ORDERED_PARTY_NAMES", "bigTwoColors", "collectedColors",
                          "resCDU", "resSPD", "resGRUENE", "resFDP", "resLINKE", "resPIRATEN", "resAFD", "resSONST")
-DATE_FORMAT = "%d.%m.%y"
+DATE_FORMAT = "%d.%m.%Y"
 WAHLTAG = as.Date("22.09.2013", DATE_FORMAT)
 ORDERED_PARTY_NAMES = c("CDU/CSU", "SPD", "B90/Grune", "FDP", "Die Linke", "Piraten", "AfD", "sonstige")
 bigTwoColors =    c("black", "red")
@@ -202,6 +202,36 @@ resAFD =     resAFD     / SUM
 resSONST =   resSONST   / SUM
 
 
+sduFactorCDU =      0.25
+sduFactorSPD =     -0.25
+sduFactorGRUENE =  -0.5
+sduFactorFDP =      0.75
+sduFactorLINKE =    0.5
+sduFactorPIRATEN = -0.5
+sduFactorAFD =      0.25
+sduFactorSONST =    0.00
+
+
+sdCDU =     sd(cdu$mean)
+sdSPD =     sd(spd$mean)
+sdGRUENE =  sd(gruene$mean)
+sdFDP =     sd(fdp$mean)
+sdLINKE =   sd(linke$mean)
+sdPIRATEN = sd(piraten$mean)
+sdAFD =     sd(afd$mean)
+sdSONST =   sd(sonst$mean)
+
+
+guessCDU =      resCDU +     (sduFactorCDU *     sdCDU)
+guessSPD =      resSPD +     (sduFactorSPD *     sdSPD)
+guessGRUENE =   resGRUENE +  (sduFactorGRUENE *  sdGRUENE)
+guessFDP =      resFDP +     (sduFactorFDP *     sdFDP)
+guessLINKE =    resLINKE +   (sduFactorLINKE *   sdLINKE)
+guessPIRATEN =  resPIRATEN + (sduFactorPIRATEN * sdPIRATEN)
+guessAFD =      resAFD +     (sduFactorAFD *     sdAFD)
+guessSONST =    resSONST +   (sduFactorSONST *   sdSONST)
+
+
 # rest = 1 - (resSONST)
 
 # resCDU =     resCDU     / rest
@@ -214,9 +244,22 @@ resSONST =   resSONST   / SUM
 # resSONST =   resSONST   / rest
 
 collectedMeanValues = c(resCDU, resSPD, resGRUENE, resFDP, resLINKE, resPIRATEN, resAFD, resSONST)
+collectedMeanGuesses = c(guessCDU, guessSPD, guessGRUENE, guessFDP, guessLINKE, guessPIRATEN, guessAFD, guessSONST)
 
 
 barplot(collectedMeanValues, main="glm-Prognose: btw2013", xlab="", ylab="Prozent", names.arg=ORDERED_PARTY_NAMES)
+barplot(collectedMeanGuesses, main="angepasste glm-Prognose: btw2013", xlab="", ylab="Prozent", names.arg=ORDERED_PARTY_NAMES)
+
+
+quantile(sample(cdu$mean,     1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(spd$mean,     1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(gruene$mean,  1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(fdp$mean,     1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(linke$mean,   1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(piraten$mean, 1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(afd$mean,     1000, replace=TRUE), na.rm=TRUE)
+quantile(sample(sonst$mean,   1000, replace=TRUE), na.rm=TRUE)
+
 
 rm(list=c("lm", "formula", "bigTwoColors", "bigTwoMeans", "collectedColors", "collectedMeans", 
           "WAHLTAG", "DATE_FORMAT", "SUM", 
